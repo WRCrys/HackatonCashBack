@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackatonCashBack.Api", "src\HackatonCashBack.Api\HackatonCashBack.Api.csproj", "{07DBA395-DEE5-4349-A5A7-AF05F8360352}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackatonCashBack.Bussines", "src\HackatonCashBack.Bussines\HackatonCashBack.Bussines.csproj", "{13B36D8A-B105-4EF3-A807-22F9DFC74578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DBA395-DEE5-4349-A5A7-AF05F8360352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DBA395-DEE5-4349-A5A7-AF05F8360352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DBA395-DEE5-4349-A5A7-AF05F8360352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DBA395-DEE5-4349-A5A7-AF05F8360352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B36D8A-B105-4EF3-A807-22F9DFC74578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B36D8A-B105-4EF3-A807-22F9DFC74578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B36D8A-B105-4EF3-A807-22F9DFC74578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B36D8A-B105-4EF3-A807-22F9DFC74578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12F3C462-FF63-463D-9C86-E70317F15F84}
+	EndGlobalSection
+EndGlobal

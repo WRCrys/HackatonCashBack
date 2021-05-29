@@ -1,0 +1,9 @@
+C:\Users\111809\Documents\codes\Desenvolvimento\HackatonCashBack\src\HackatonCashBack.Bussines\bin\Debug\netcoreapp3.1\HackatonCashBack.Bussines.deps.json
+C:\Users\111809\Documents\codes\Desenvolvimento\HackatonCashBack\src\HackatonCashBack.Bussines\bin\Debug\netcoreapp3.1\HackatonCashBack.Bussines.dll
+C:\Users\111809\Documents\codes\Desenvolvimento\HackatonCashBack\src\HackatonCashBack.Bussines\bin\Debug\netcoreapp3.1\HackatonCashBack.Bussines.pdb
+C:\Users\111809\Documents\codes\Desenvolvimento\HackatonCashBack\src\HackatonCashBack.Bussines\obj\Debug\netcoreapp3.1\HackatonCashBack.Bussines.csprojAssemblyReference.cache
+C:\Users\111809\Documents\codes\Desenvolvimento\HackatonCashBack\src\HackatonCashBack.Bussines\obj\Debug\netcoreapp3.1\HackatonCashBack.Bussines.AssemblyInfoInputs.cache
+C:\Users\111809\Documents\codes\Desenvolvimento\HackatonCashBack\src\HackatonCashBack.Bussines\obj\Debug\netcoreapp3.1\HackatonCashBack.Bussines.AssemblyInfo.cs
+C:\Users\111809\Documents\codes\Desenvolvimento\HackatonCashBack\src\HackatonCashBack.Bussines\obj\Debug\netcoreapp3.1\HackatonCashBack.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\111809\Documents\codes\Desenvolvimento\HackatonCashBack\src\HackatonCashBack.Bussines\obj\Debug\netcoreapp3.1\HackatonCashBack.Bussines.dll
+C:\Users\111809\Documents\codes\Desenvolvimento\HackatonCashBack\src\HackatonCashBack.Bussines\obj\Debug\netcoreapp3.1\HackatonCashBack.Bussines.pdb
